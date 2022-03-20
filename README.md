@@ -1,6 +1,6 @@
 # BuTiNSAnE
 
-Just an insane game I made today
+Just an insane version of doodle jump I made today
 
 ![Screenshot (169)](https://user-images.githubusercontent.com/79209089/159175716-937531b4-2555-4d62-ab73-b9dbdbce1138.png)
 
